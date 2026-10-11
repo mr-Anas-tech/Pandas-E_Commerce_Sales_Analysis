@@ -10,7 +10,7 @@
 - GroupBy and aggregation for analysis
 - Date handling (year, month extraction)
 - Basic business insights: top customers, revenue by city/category
-                     **** INSIGHTS****
+# INSIGHTS
 - - Top 5 customers by total spending
 - Revenue by city and product category
 - Average order value and quantity analysis
