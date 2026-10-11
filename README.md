@@ -11,7 +11,7 @@
 - Date handling (year, month extraction)
 - Basic business insights: top customers, revenue by city/category
 # INSIGHTS
-- - Top 5 customers by total spending
+- Top 5 customers by total spending
 - Revenue by city and product category
 - Average order value and quantity analysis
 - Monthly revenue trends
